@@ -1,0 +1,52 @@
+[
+  {
+    "power1": -2.4,
+    "power2": 2.02,
+    "type": "gravity"
+  },
+  {
+    "power1": -0.5,
+    "power2": null,
+    "type": "gravity"
+  },
+  {
+    "power1": null,
+    "power2": 3.2,
+    "type": "strong"
+  },
+  {
+    "power1": -3.74,
+    "power2": -0.24,
+    "type": "electromagnetic"
+  },
+  {
+    "power1": -0.26,
+    "power2": 0.25,
+    "type": "weak"
+  },
+  {
+    "power1": -0.21,
+    "power2": null,
+    "type": "electromagnetic"
+  },
+  {
+    "power1": -2.4,
+    "power2": 2.02,
+    "type": "gravity"
+  },
+  {
+    "power1": null,
+    "power2": 2.13,
+    "type": "electromagnetic"
+  },
+  {
+    "power1": -4.16,
+    "power2": 0.45,
+    "type": "weak"
+  },
+  {
+    "power1": 1.95,
+    "power2": 3.76,
+    "type": "strong"
+  }
+]
